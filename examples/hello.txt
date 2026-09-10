@@ -1,3 +1,4 @@
 Hello, Git!
 
 This file is used to demonstrate the lifecycle of a tracked file.
+It began as untracked, became staged, was committed, and was then modified.

@@ -13,12 +13,12 @@ This public repository demonstrates the essential local and remote Git workflow 
 - [x] Demonstrate untracked, staged, modified, and committed file states
 - [x] Use `git init`, `git add`, `git commit`, and `git status`
 - [x] Save files in Git
-- [ ] Add a GitHub remote named `origin`
-- [ ] Push and set the upstream branch
-- [ ] Fetch and pull remote changes
-- [ ] Clone the public repository and verify it
+- [x] Add a GitHub remote named `origin`
+- [x] Push and set the upstream branch
+- [x] Fetch and pull remote changes
+- [x] Clone the public repository and verify it
 
-The remote items will be checked after this repository is published.
+All local and remote exercises have been completed. See the records in [`evidence/`](evidence/).
 
 ## Repository contents
 

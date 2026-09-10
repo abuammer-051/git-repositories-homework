@@ -55,3 +55,17 @@ Fast-forward
 ```
 
 This shows the difference between fetching remote references and pulling the remote commit into the current local branch.
+
+## Publish to GitHub
+
+The temporary practice remote was retained under a descriptive name, and the public GitHub repository became the primary `origin`:
+
+```text
+$ git remote rename origin practice
+$ git remote add origin https://github.com/abuammer-051/git-repositories-homework.git
+$ git push -u origin main
+* [new branch] main -> main
+branch 'main' set up to track 'origin/main'.
+```
+
+The final repository was then cloned from its public HTTPS URL and checked for a clean working tree and matching commit history.
